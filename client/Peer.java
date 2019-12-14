@@ -1,4 +1,4 @@
-package salva.mario.client;
+package client;
 
 import java.io.*;
 import java.rmi.RemoteException;
@@ -8,10 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import salva.mario.common.*;
-import salva.mario.common.Utils.*;
-
-import salva.mario.tracker.ITracker;
+import tracker.ITracker;
 
 import javax.annotation.processing.FilerException;
 import javax.swing.*;
