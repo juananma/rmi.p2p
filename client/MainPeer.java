@@ -1,4 +1,4 @@
-package salva.mario.client;
+package client;
 
 public class MainPeer {
 
