@@ -1,10 +1,10 @@
-package salva.mario.tracker;
+package tracker;
 
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 
-import salva.mario.common.Utils;
+import common.Utils;
 
 
 public class MainTracker {
