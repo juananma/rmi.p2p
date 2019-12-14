@@ -1,6 +1,6 @@
-package salva.mario.tracker;
+package tracker;
 
-import salva.mario.client.Peer;
+import client.Peer;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
